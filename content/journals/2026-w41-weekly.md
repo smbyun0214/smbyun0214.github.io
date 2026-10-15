@@ -1,7 +1,7 @@
 +++
 date = '2026-10-14T21:29:03+09:00'
-draft = true
-title = '2026 W41 Weekly'
+# draft = true
+title = '2026년 41주차 주간 기록'
 tag = ['2026', 'journal', 'weekly']
 +++
 
