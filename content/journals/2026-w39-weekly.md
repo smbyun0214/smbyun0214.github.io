@@ -1,6 +1,6 @@
 +++
 date = '2026-09-28T00:13:29+09:00'
-# draft = true
+draft = true
 title = '2026년 39주차 주간 기록'
 tag = ['2026', 'journal', 'weekly']
 +++
