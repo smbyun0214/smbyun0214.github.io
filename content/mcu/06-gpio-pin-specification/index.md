@@ -1,7 +1,7 @@
 +++
 date = '2026-11-04T15:12:57+09:00'
 # draft = true
-title = '05 GPIO Pin Specification'
+title = '06. GPIO Pin Specification'
 +++
 
 ## Absolute Maximum Ratings
