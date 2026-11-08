@@ -1,6 +1,6 @@
 +++
 date = '2026-11-07T18:37:33+09:00'
-draft = true
+# draft = true
 title = '08. SPI Configuration'
 +++
 
