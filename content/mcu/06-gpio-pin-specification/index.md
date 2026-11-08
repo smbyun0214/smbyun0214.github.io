@@ -82,7 +82,7 @@ $\text{I}_\text{IO}$에는 2가지 종류의 전류가 있는데, 하나는 MCU�
 
 ![Current sourcing when 5 or 20 I/Os are in digital output mode.](current-sourcing-io.svg)
 
-5개의 I/O 핀을 사용할 떄는 각 핀에 충분히 $25 \text{mA}$를 공급할 수 있지만, 사용하는 핀이 많아질수록 칩 전체의 전원 라인이 버티는 총 전류 한계 때문에 각 핀에 할당되는 전류가 줄어든다.
+5개의 I/O 핀을 사용할 때는 각 핀에 충분히 $25 \text{mA}$를 공급할 수 있지만, 사용하는 핀이 많아질수록 칩 전체의 전원 라인이 버티는 총 전류 한계 때문에 각 핀에 할당되는 전류가 줄어든다.
 
 ![Current sourcing and sinking](current-sourcing-sinking.svg)
 
